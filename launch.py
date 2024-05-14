@@ -27,9 +27,9 @@ TRY_INSTALL_XFORMERS = False
 
 
 def prepare_environment():
-    torch_index_url = os.environ.get('TORCH_INDEX_URL', "https://download.pytorch.org/whl/cu121")
+    torch_index_url = os.environ.get('TORCH_INDEX_URL', "https://pytorch-extension.intel.com/release-whl/stable/xpu/us")
     torch_command = os.environ.get('TORCH_COMMAND',
-                                   f"pip install torch==2.1.0 torchvision==0.16.0 --extra-index-url {torch_index_url}")
+                                   f"pip install torch==2.1.0.post2 torchvision==0.16.0.post2 torchaudio==2.1.0.post2 intel-extension-for-pytorch==2.1.30+xpu oneccl_bind_pt==2.1.300+xpu --extra-index-url {torch_index_url}")
     requirements_file = os.environ.get('REQS_FILE', "requirements_versions.txt")
 
     print(f"Python {sys.version}")
