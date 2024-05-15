@@ -1,3 +1,13 @@
+mkl-devel-dpcpp==2024.1.0
+dpcpp-cpp-rt==2024.1.0
+mkl-devel==2024.1.0
+onemkl-sycl-blas==2024.1.0
+onemkl-sycl-lapack==2024.1.0
+onemkl-sycl-sparse==2024.1.0
+onemkl-sycl-dft==2024.1.0
+onemkl-sycl-vm==2024.1.0
+onemkl-sycl-rng==2024.1.0
+onemkl-sycl-stats==2024.1.0
 torchsde==0.2.5
 einops==0.4.1
 transformers==4.30.2
