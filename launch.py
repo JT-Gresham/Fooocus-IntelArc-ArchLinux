@@ -1,6 +1,7 @@
 import os
 import ssl
 import sys
+import intel_extension_for_pytorch
 
 print('[System ARGV] ' + str(sys.argv))
 
