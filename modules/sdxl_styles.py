@@ -20,6 +20,7 @@ def normalize_key(k):
     k = k.replace('Sai', 'SAI')
     k = k.replace('Mre', 'MRE')
     k = k.replace('(s', '(S')
+    k = k.replace('Jt', 'JT')
     return k
 
 
@@ -28,6 +29,7 @@ styles = {}
 styles_files = get_files_from_folder(styles_path, ['.json'])
 
 for x in ['sdxl_styles_fooocus.json',
+          'sdxl_styles_JT.json',
           'sdxl_styles_sai.json',
           'sdxl_styles_mre.json',
           'sdxl_styles_twri.json',
@@ -118,4 +120,3 @@ def apply_arrays(text, index):
         i = i+1
     
     return text
-
