@@ -1,3 +1,4 @@
+intel-extension-for-transformers
 mkl-devel-dpcpp
 dpcpp-cpp-rt
 mkl-devel
