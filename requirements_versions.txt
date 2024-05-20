@@ -9,6 +9,7 @@ onemkl-sycl-dft
 onemkl-sycl-vm
 onemkl-sycl-rng
 onemkl-sycl-stats
+openvino
 torchsde==0.2.5
 einops==0.4.1
 transformers==4.30.2
