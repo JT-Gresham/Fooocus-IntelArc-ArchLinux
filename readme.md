@@ -1,4 +1,11 @@
 <div align=center>
+Fooocus-IntelArc-ArchLinux is the primary fork for Arch users that have Intel Arc GPUs and wish to install and use FOOOCUS.
+
+Installation is super easy...just download and run the "Fooocus-IntelArc-ArchLinux-Install.sh" file in a terminal.
+
+</div>
+
+<div align=center>
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
 
 **Non-cherry-picked** random batch by just typing two words "forest elf", 
@@ -8,7 +15,6 @@ without any parameter tweaking, without any strange prompt tags.
 See also **non-cherry-picked** generalization and diversity tests [here](https://github.com/lllyasviel/Fooocus/discussions/2067) and [here](https://github.com/lllyasviel/Fooocus/discussions/808) and [here](https://github.com/lllyasviel/Fooocus/discussions/679) and [here](https://github.com/lllyasviel/Fooocus/discussions/679#realistic).
 
 In the entire open source community, only Fooocus can achieve this level of **non-cherry-picked** quality.
-
 </div>
 
 
