@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "########## FOOOCUS for Intel Arc GPUs on Arch Linux ##########"
-echo "#################### fork by JT Gresham ####################"
+echo "##################### fork by JT Gresham #####################"
 echo ""
 echo "*     This installer requires that you have up-to-date drivers for your Intel Arc GPU."
 echo "*     You also need to have Python 3.10 installed since this installer creates your"
