@@ -5,6 +5,8 @@ Installation is super easy...just download and run the "Fooocus-IntelArc-ArchLin
 
 Note that this installation does require Python 3.10 and the current Intel Arc GPU drivers to be installed prior to running this install script.
 
+Please consider supporting me with [Buy Me A Coffee!!](https://bmc.link/OCD_Insomniac)
+
 </div>
 
 <div align=center>
