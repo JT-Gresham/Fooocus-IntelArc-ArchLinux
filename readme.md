@@ -1,11 +1,13 @@
 <div align=center>
 Fooocus-IntelArc-ArchLinux is the primary fork for Arch users that have Intel Arc GPUs and wish to install and use FOOOCUS.
-
+    
 Installation is super easy...just download and run the "Fooocus-IntelArc-ArchLinux-Install.sh" file in a terminal, answer the questions and you should be good to go!
 
 Note that this installation does require Python 3.10 and the current Intel Arc GPU drivers to be installed prior to running this install script.
 
-Please consider supporting me with [Buy Me A Coffee!!](https://bmc.link/OCD_Insomniac)
+Please consider supporting me with [Buy Me A Coffee](https://bmc.link/OCD_Insomniac)!
+
+[<img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif">](https://bmc.link/OCD_Insomniac)
 
 </div>
 
