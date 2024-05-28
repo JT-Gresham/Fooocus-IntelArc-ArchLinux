@@ -1,16 +1,20 @@
-<div align=center>
-Fooocus-IntelArc-ArchLinux is the primary fork for Arch users that have Intel Arc GPUs and wish to install and use FOOOCUS.
+
+# Fooocus-IntelArc-ArchLinux  
+The primary fork for Arch users that have Intel Arc GPUs and wish to install and use FOOOCUS.  
     
-Installation is super easy...just download and run the "Fooocus-IntelArc-ArchLinux-Install.sh" file in a terminal, answer the questions and you should be good to go!
+# Installation is super easy
+*    Download and run the "Fooocus-IntelArc-ArchLinux-Install.sh" file in a terminal, answer the questions and you should be good to go!  
+*    Note that this installation does require Python 3.10 and the current Intel Arc GPU drivers to be installed prior to running this install script.  
+# How You Can Support Development  
 
-Note that this installation does require Python 3.10 and the current Intel Arc GPU drivers to be installed prior to running this install script.
+[<img align="left" width="20%" src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif">](https://bmc.link/OCD_Insomniac)  
 
-Please consider supporting me with [Buy Me A Coffee](https://bmc.link/OCD_Insomniac)!
-
-[<img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif">](https://bmc.link/OCD_Insomniac)
-
-</div>
-
+*    Please consider supporting me with [Buy Me A Coffee](https://bmc.link/OCD_Insomniac)!
+*    Get the buzz out by reviewing and sharing on social networks like Facebook, Twitter (formerly), etc...
+*    Consider purchasing something from the [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/25OBUY6VTN1C8?ref_=wl_share)...items I always need more of. (Mouses, Keyboards, Storage, etc...)
+*    [<img align="left" width="10%" src="https://m.media-amazon.com/images/I/41CMZ4XoAJL._SS135_.jpg">](https://www.amazon.com/hz/wishlist/ls/25OBUY6VTN1C8?ref_=wl_share) [<img align="left" width="10%" src="https://i.etsystatic.com/49605844/r/il/d7369b/5752403283/il_640xN.5752403283_m6wa.jpg">](https://www.etsy.com/shop/JTGreshamExclusives)
+<br clear="left"/>
+<br clear="left"/>
 <div align=center>
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
 
@@ -21,6 +25,7 @@ without any parameter tweaking, without any strange prompt tags.
 See also **non-cherry-picked** generalization and diversity tests [here](https://github.com/lllyasviel/Fooocus/discussions/2067) and [here](https://github.com/lllyasviel/Fooocus/discussions/808) and [here](https://github.com/lllyasviel/Fooocus/discussions/679) and [here](https://github.com/lllyasviel/Fooocus/discussions/679#realistic).
 
 In the entire open source community, only Fooocus can achieve this level of **non-cherry-picked** quality.
+
 </div>
 
 
